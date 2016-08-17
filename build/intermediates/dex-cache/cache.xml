@@ -1,2 +1,96 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/Tawatchai/Android/AndroidStudioWorkSpace/Train/Mosccii/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Tawatchai/Android/AndroidStudioWorkSpace/Train/Mosccii/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_d69ea14008b09003877155eb020fc1d3714014a7/classes.dex" />
+    </item>
+    <item
+        jar="/Tawatchai/Android/AndroidStudioWorkSpace/Train/Mosccii/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Tawatchai/Android/AndroidStudioWorkSpace/Train/Mosccii/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_dfd26164180e7adfd87b21629bd3cb7c9c2be391/classes.dex" />
+    </item>
+    <item
+        jar="/Tawatchai/Android/AndroidStudioWorkSpace/Train/Mosccii/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="/Tawatchai/Android/AndroidStudioWorkSpace/Train/Mosccii/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.3.0_376e883178f04d51107f57b00df6a2299f51800c/classes.dex" />
+    </item>
+    <item
+        jar="/Tawatchai/Android/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Tawatchai/Android/AndroidStudioWorkSpace/Train/Mosccii/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_ca5021d4c076e92812673497fbd12585551e3580/classes.dex" />
+    </item>
+    <item
+        jar="/Tawatchai/Android/AndroidStudioWorkSpace/Train/Mosccii/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Tawatchai/Android/AndroidStudioWorkSpace/Train/Mosccii/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_02991240787b2d97dbb48fc8e680fed0d7b062d5/classes.dex" />
+    </item>
+    <item
+        jar="/Tawatchai/Android/AndroidStudioWorkSpace/Train/Mosccii/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f8d19eb583425bd16991b13ac9f895c3c3bb162a">
+        <dex dex="/Tawatchai/Android/AndroidStudioWorkSpace/Train/Mosccii/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cba0b8b7f763565a49d130bc0010a61d65027412/classes.dex" />
+    </item>
+    <item
+        jar="/Users/tawatchaitongtea/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/Tawatchai/Android/AndroidStudioWorkSpace/Train/Mosccii/app/build/intermediates/transforms/dex/debug/folders/1000/10/httpclient-4.3.6_c76884a1ec5300f73203a33feaa47be0fe805e1f/classes.dex" />
+    </item>
+    <item
+        jar="/Tawatchai/Android/AndroidStudioWorkSpace/Train/Mosccii/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Tawatchai/Android/AndroidStudioWorkSpace/Train/Mosccii/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_284f0952e05ad8f25822bc417cf9d627ad22e658/classes.dex" />
+    </item>
+    <item
+        jar="/Tawatchai/Android/AndroidStudioWorkSpace/Train/Mosccii/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Tawatchai/Android/AndroidStudioWorkSpace/Train/Mosccii/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_93dfd9896648ecea6b725f396a3c1b5a86b150ec/classes.dex" />
+    </item>
+    <item
+        jar="/Tawatchai/Android/AndroidStudioWorkSpace/Train/Mosccii/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Tawatchai/Android/AndroidStudioWorkSpace/Train/Mosccii/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_eb40d5a0982b84ee03a4b2704b8a96a25689a4e0/classes.dex" />
+    </item>
+    <item
+        jar="/Tawatchai/Android/AndroidStudioWorkSpace/Train/Mosccii/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Tawatchai/Android/AndroidStudioWorkSpace/Train/Mosccii/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.3.0_8aac03b2cc9971ebae47a20e5b3595b8509d7407/classes.dex" />
+    </item>
+    <item
+        jar="/Users/tawatchaitongtea/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/Tawatchai/Android/AndroidStudioWorkSpace/Train/Mosccii/app/build/intermediates/transforms/dex/debug/folders/1000/10/android-async-http-1.4.9_f6308c4d684fe0643b9348a9eff0281befc4e202/classes.dex" />
+    </item>
+    <item
+        jar="/Tawatchai/Android/AndroidStudioWorkSpace/Train/Mosccii/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="107c8ed8efceaed3a48b489bffd9582f8598e10c">
+        <dex dex="/Tawatchai/Android/AndroidStudioWorkSpace/Train/Mosccii/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_407842cd1e559df6854e0bfeac676a202ec02c12/classes.dex" />
+    </item>
+
+</items>
